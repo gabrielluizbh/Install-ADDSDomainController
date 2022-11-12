@@ -1,2 +1,2 @@
-# Scrip para adicionar um novo controlador de domínio pelo Powershell.
+# Script para criação de um Controlador de Domínio do Active Directory pelo Powershell.
 
