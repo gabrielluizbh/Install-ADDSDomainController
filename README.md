@@ -1,2 +1,2 @@
-# Install-ADDSDomainController
-Scrip para adicionar um novo controlador de domínio pelo Powershell
+# Scrip para adicionar um novo controlador de domínio pelo Powershell
+
